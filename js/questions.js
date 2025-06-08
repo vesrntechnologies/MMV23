@@ -385,7 +385,7 @@ let questions = [
     immg: "img50",
     answer: "Stator",
     options: ["Stator", "Rotar", "Slip rings", "Pulley"]
-  }
+  },
 ];
 
 
